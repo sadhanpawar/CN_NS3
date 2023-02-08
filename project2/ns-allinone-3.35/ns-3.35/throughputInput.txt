@@ -1,0 +1,8 @@
+ Throughput: 0 99.6368 Mbps
+ Throughput: 100 54.4038 Mbps
+ Throughput: 200 4.44609 Mbps
+ Throughput: 300 2.46441 Mbps
+ Throughput: 400 42.5326 Mbps
+ Throughput: 500 1.89425 Mbps
+ Throughput: 600 33.019 Mbps
+ Throughput: 700 1.48391 Mbps
